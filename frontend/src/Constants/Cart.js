@@ -1,0 +1,7 @@
+export const CART_RESQUEST = 'CART_RESQUEST';
+export const CART_SUCCESS = 'CART_SUCCESS';
+export const CART_FAIL = 'CART_FAIL';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const ADD_TO_CART_FAIL = 'ADD_TO_CART_FAIL';
+export const ADD_TO_CART_SUCCESS = 'ADD_TO_CART_SUCCESS';
+export const QUANTITY_CHANGED = 'QUANTITY_CHANGED';

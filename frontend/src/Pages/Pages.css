@@ -1,0 +1,16 @@
+.form-text {
+   color: red !important;
+}
+
+form {
+   max-width: 500px;
+   text-align: left;
+   padding: 1.5rem;
+   border: 1px solid #e6e6e6;
+   border-radius: 1rem;
+   margin: 3rem 0;
+}
+
+.form-container {
+   text-align: -webkit-center;
+}

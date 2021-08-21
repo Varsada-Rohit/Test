@@ -1,0 +1,16 @@
+.quantity-btn {
+   font-size: 1.2rem;
+   line-height: 0.8px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding-bottom: 8px;
+   height: 1.5rem;
+   width: 1.5rem;
+}
+
+@media only screen and (max-width: 750px) {
+   .cart {
+      flex-direction: column-reverse;
+   }
+}
